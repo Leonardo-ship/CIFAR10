@@ -1,3 +1,5 @@
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/e90f7590-1a30-4500-9fc5-45782b4cbe49" />
+
 Using Device: cuda
 Loading dataset into memory...
 Dataset loaded. Total images: 50000
@@ -22,3 +24,4 @@ Epoch [17/20] | Train Loss: 0.2338 | Val Acc: 88.20% | LR: 0.000054 | Time: 20.5
 Epoch [18/20] | Train Loss: 0.2234 | Val Acc: 88.44% | LR: 0.000024 | Time: 20.49s
 Epoch [19/20] | Train Loss: 0.2169 | Val Acc: 88.56% | LR: 0.000006 | Time: 21.25s
 Epoch [20/20] | Train Loss: 0.2148 | Val Acc: 88.66% | LR: 0.000000 | Time: 22.08s
+![Uploading image.png…]()
